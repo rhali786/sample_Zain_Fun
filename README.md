@@ -31,7 +31,7 @@ Once you've seen how that works, start developing your own code, and have fun!
 
 Learn more about Serverless Application Model (SAM) and how it works here:
 https://github.com/awslabs/serverless-application-model/blob/master/HOWTO.md
-
+ 
 AWS Lambda Developer Guide:
 http://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html
 
