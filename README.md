@@ -11,7 +11,7 @@ This sample includes:
 
 * README.md - this file 
 * buildspec.yml - this file is used by AWS CodeBuild to package your
-  service for deployment to AWS Lambda 
+  service for deployment to AWS Lambda  
 * app.js - this file contains the sample Node.js code for the web service 
 * index.js - this file contains the AWS Lambda handler code 
 * template.yml - this file contains the Serverless Application Model (SAM) used
