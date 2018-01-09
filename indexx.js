@@ -3,7 +3,7 @@ if (process.env.HOSTNAME.includes("hostmonster")) {
     const app = require('./app')
     app.listen(8080, () => {
         console.log("Hostmonster listening on 8080 for Zain and Rasheed")
-    })
+    }) 
 } else {
     const awsServerlessExpress = require('aws-serverless-express')
     const app = require('./app')
