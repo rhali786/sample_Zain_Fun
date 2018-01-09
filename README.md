@@ -5,7 +5,7 @@ This sample code helps get you started with a simple Express web service
 deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
  
 What's Here
------------ 
+-----------  
 
 This sample includes:
 
